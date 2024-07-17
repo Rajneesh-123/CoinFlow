@@ -1,4 +1,4 @@
-# Crypto_Sphere
+# Coinflow
 
 It is a responsive web application that provides real-time information on over 100 popular cryptocurrencies. It fetches data from the Coingecko API and displays details such as price, volume, market cap, and descriptions for each cryptocurrency.
 
